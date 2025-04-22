@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+google-generativeai
+chromadb
+pydantic
+python-dotenv
+sqlalchemy
+pyodbc
+jinja2
+tqdm
+httpx
+aiofiles
+tenacity
+langchain-openai
+langchain-community
